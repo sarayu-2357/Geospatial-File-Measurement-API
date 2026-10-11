@@ -1,0 +1,10 @@
+fastapi==0.143.0
+httpx==0.28.1
+pyogrio==0.13.0
+pyproj==3.8.0
+pyshp==3.1.6
+pytest==9.1.1
+python-multipart==0.0.32
+shapely==2.2.0
+SQLAlchemy==2.1.4
+uvicorn==0.54.0
